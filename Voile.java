@@ -1,4 +1,4 @@
-package projectBoat;
+
 
 public class Voile {
 	private int idVoile = 5;

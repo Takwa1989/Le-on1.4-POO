@@ -1,4 +1,3 @@
-package projectBoat;
 
 public class Pont {
 	private Integer idPont = 4;
